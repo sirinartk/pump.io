@@ -47,7 +47,7 @@
     "sanitize-html": "^1.13.0",
     "schlock": "~0.2.1",
     "send": "^0.15.1",
-    "serve-favicon": "^2.3.0",
+    "serve-favicon": "^2.4.2",
     "showdown": "^1.4.1",
     "sockjs": "0.3.x",
     "ssl-config": "^1.0.0",
