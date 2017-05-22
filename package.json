@@ -30,7 +30,7 @@
     "cookie-parser": "^1.4.3",
     "databank": "0.19.x",
     "dateformat": "^2.0.0",
-    "dialback-client": "0.2.x",
+    "dialback-client": "~0.2.0",
     "dompurify": "^0.8.3",
     "emailjs": "^1.0.8",
     "express": "^4.14.0",
