@@ -1,6 +1,7 @@
 language: node_js
 node_js:
   - "6"
+  - "10"
   # Note: docker-candidacy.sh chooses 8 as the version to run Docker builds.
   # That's pretty arbitrary, but I had to pick something. When you remove this
   # from the build matrix, be sure to adjust that script too.
